@@ -4,7 +4,7 @@
 
 众所周知，由于各位老哥的白嫖行为，小飞机的Telegraph不允许上传图片了，只能通过图床一个一个插入图片链接，太麻烦了。于是写了一个Power Automate脚本，方便做套图
 
-<video src="https://github.com/oksummer/A-Automate-script-for-Telegraph/raw/refs/heads/main/%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.mp4"></video>
+https://github.com/user-attachments/assets/9fdfc990-7777-428d-a4ec-bd02725baeae
 
 本来想着开源的 
 
@@ -15,3 +15,4 @@
 点击购买👉 [跳转小黄鱼](https://m.tb.cn/h.T9Oydzr?tk=2dh5eddu3GmHU071)
 
 购买人数达(0\50)人后开源
+
