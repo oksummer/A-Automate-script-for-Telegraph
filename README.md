@@ -14,5 +14,5 @@ https://github.com/user-attachments/assets/9fdfc990-7777-428d-a4ec-bd02725baeae
 
 点击购买👉 [跳转小黄鱼](https://m.tb.cn/h.T9Oydzr?tk=2dh5eddu3GmHU071)
 
-购买人数达(0\50)人后开源
+购买人数达(1\50)人后开源
 
